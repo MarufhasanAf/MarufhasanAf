@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Maruf Hasan
-#### Web Developer | 💻 Passionate Programmer | 📖 Learner 
+# Hi there 👋, I'm Maruf Hasan
+### Web Developer | 💻 Passionate Programmer | 📖 Learner 
 
 Skills: C / C++ / PYTHON / DJANGO / JS / REACT  / HTML / CSS / TAILWINDCSS
 
